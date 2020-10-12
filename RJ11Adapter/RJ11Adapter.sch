@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L KevinsLib:A-2014-1-4-N-T-R J1
+L KevinLib:A-2014-1-4-N-T-R J1
 U 1 1 5F701278
 P 2950 2750
 F 0 "J1" H 3478 2553 60  0000 L CNN
@@ -25,7 +25,7 @@ F 3 "" H 2950 2750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L KevinsLib:A-2014-1-4-N-T-R J3
+L KevinLib:A-2014-1-4-N-T-R J3
 U 1 1 5F701C6E
 P 4850 2750
 F 0 "J3" H 5378 2553 60  0000 L CNN
