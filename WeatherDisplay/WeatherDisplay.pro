@@ -1,4 +1,4 @@
-update=Tue 13 Apr 2021 01:25:05 PM EDT
+update=Tue 13 Apr 2021 03:38:28 PM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -16,19 +16,29 @@ version=1
 [eeschema]
 version=1
 LibDir=
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=WeatherStation.net
+LastNetListRead=WeatherDisplay.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.127
-MinViaDiameter=0.45
-MinViaDrill=0
+MinTrackWidth=0.1524
+MinViaDiameter=0.6858
+MinViaDrill=0.3302
 MinMicroViaDiameter=0.508
 MinMicroViaDrill=0.127
 MinHoleToHole=0.25
@@ -73,7 +83,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=-0.04
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -254,8 +264,8 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=0.2mm
-Clearance=0.1
-TrackWidth=0.127
+Clearance=0.2
+TrackWidth=0.2
 ViaDiameter=0.6858
 ViaDrill=0.3302
 uViaDiameter=0.508
@@ -265,8 +275,8 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=Minimal
-Clearance=0.127
-TrackWidth=0.127
+Clearance=0.1524
+TrackWidth=0.1524
 ViaDiameter=0.6858
 ViaDrill=0.3302
 uViaDiameter=0.508
@@ -274,25 +284,4 @@ uViaDrill=0.127
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/3]
-Name=Power
-Clearance=0.254
-TrackWidth=0.254
-ViaDiameter=0.6858
-ViaDrill=0.3302
-uViaDiameter=0.508
-uViaDrill=0.127
-dPairWidth=0.2
-dPairGap=0.25
-dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
 

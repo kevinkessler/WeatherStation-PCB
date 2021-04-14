@@ -1,4 +1,4 @@
-16968540196461178
+16968541420420624
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50266,224 +50266,224 @@ solder jumper open
 0
 5
 3
-KevinLib
+KevinLibrary
 A-2014-1-4-N-T-R
 
 
 0
-8
-8
-KevinLib
+6
+6
+KevinLibrary
 ADS1115IDGSR
 
 
 0
 10
 10
-KevinLib
+KevinLibrary
 AH1892
 
 
 0
 5
 5
-KevinLib
+KevinLibrary
 CORE51822B
 
 
 0
 36
 36
-KevinLib
+KevinLibrary
 CR2032_BATTERY_HOLDER
 
 
 0
 2
 2
-KevinLib
+KevinLibrary
 DD401BUCK
 
 
 0
 3
 3
-KevinLib
+KevinLibrary
 E5566-Q0LK22-L
 
 
 0
 6
 6
-KevinLib
+KevinLibrary
 JST_SH_6_PIN
 
 
 0
 8
 6
-KevinLib
+KevinLibrary
 KF301
 
 
 0
 2
 2
-KevinLib
+KevinLibrary
 Logo
 
 
 0
 0
 0
-KevinLib
+KevinLibrary
 LogoBack
 
 
 0
 0
 0
-KevinLib
+KevinLibrary
 MAX44009
 
 
 0
 7
 6
-KevinLib
+KevinLibrary
 MP1584_MOD
 
 
 0
 8
 8
-KevinLib
+KevinLibrary
 MP1584_MOD_ALL_UNDER
 
 
 0
 8
 8
-KevinLib
+KevinLibrary
 NRJ4HF
 
 
 0
 4
 4
-KevinLib
+KevinLibrary
 OLED0.96
 
 
 0
 4
 4
-KevinLib
+KevinLibrary
 POGO_PIN_PAD_1X4
 
 POGO
 0
 4
 4
-KevinLib
+KevinLibrary
 Pin_Header_Straight_1x04_HB
 Through hole pin header
 pin header
 0
 4
 4
-KevinLib
+KevinLibrary
 RJ45_LOW_PROFILE
 
 
 0
 10
 9
-KevinLib
+KevinLibrary
 RJ45_LOW_PROFILE_NO_CUT
 
 
 0
 10
 9
-KevinLib
+KevinLibrary
 SENSOR_VCNL4200
 
 
 0
 10
 10
-KevinLib
+KevinLibrary
 SI1133-AA00-GMR
 
 
 0
 10
 8
-KevinLib
+KevinLibrary
 SI7021
 
 
 0
 7
 6
-KevinLib
+KevinLibrary
 SLP1616P6
 
 
 0
 7
 7
-KevinLib
+KevinLibrary
 SMD_18_PIN_HEADER
 Regular pin header connector sideways, 18 pin, 2.54mm pitch
 
 0
 18
 18
-KevinLib
+KevinLibrary
 SON65P200X240X70-6N
 
 
 0
 6
 6
-KevinLib
+KevinLibrary
 TH-M3
 
 
 0
 0
 0
-KevinLib
+KevinLibrary
 TPS63000
 
 
 0
 11
 11
-KevinLib
+KevinLibrary
 TSP61261
 
 
 0
 7
 7
-KevinLib
+KevinLibrary
 VIA_13MIL
 
 
 0
 1
 1
-KevinLib
+KevinLibrary
 XL-51822
 
 
 0
 36
 36
-KevinLib
+KevinLibrary
 wemos-d1-mini-with-pin-header
 
 
